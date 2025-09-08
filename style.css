@@ -1,0 +1,68 @@
+body {
+  background-color:DimGray;
+  
+}
+  
+.p1 {
+  font-family: 'Georgia';
+  font-size: 30px;
+  font-weight: bold;
+  color: black;
+  opacity:70%;
+}
+
+.p2 {
+  font-family:"Fantasy";
+  font-weight:bold;
+  text-indent: 50px;
+  text-align: justify;
+  letter-spacing: 3px;
+  color: black;
+  opacity: 50%;
+}
+  
+.p3 {
+  font-family:"Fantasy";
+  text-align: center;
+  color:black;
+  opacity:50%;
+}
+
+.p4 {
+  font-family:"Courier New";
+  font-size: 20;
+}
+
+.p5 {
+  background-color: grey;
+  border-radius:15px;
+  padding:15px;
+  
+}
+
+.p6 {
+  opacity:40%;
+}
+
+.p7 {
+  color:black;
+  opacity:60%;
+}
+table, td, th {  
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 10px;
+}
+
+th {
+background-color: #04AA6D;
+  color: white;
+}
